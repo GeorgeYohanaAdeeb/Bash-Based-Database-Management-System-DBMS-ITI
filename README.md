@@ -9,6 +9,7 @@ Project Title: "Bash-Based Database Management System (DBMS) - ITI"
 2- Listing Databases
 3- Connect to a Database
 4- Delete an Existing Database
+
 -Table Operations Menu:
 
 1. Create a New Table
