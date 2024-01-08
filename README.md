@@ -34,3 +34,11 @@ Return to the Previous Menu (either from Table or Main menu)
 Instructions to Execute the Application:
 Navigate to the cloned directory and run the following command in the terminal:
 .  ~/project.sh
+
+
+Authors: 
+George Yohana Adeeb 
+Linkedin: https://www.linkedin.com/in/george-yohana-adeeb/
+
+Rofaida Belal Abdullah
+Linkedin: https://www.linkedin.com/in/rofidabelal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
